@@ -5,11 +5,7 @@
  */
 
 body {
-  background: url(../emailcontactpage.JPG) no-repeat center center fixed;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  background-size: contain;
-  -o-background-size: contain;
+
   font-family: 'AvenirLTStd35Light', 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;
 }
 
@@ -24,6 +20,21 @@ body {
     padding-top: 56px;
   }
 }
+
+#mainimage {
+  height: 100%;
+  width: 54%;
+ display: block;
+  margin: 0 auto;
+}
+/*
+#picturediv {
+  background: url(../emailcontactpage.JPG) no-repeat center center fixed;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  background-size: contain;
+  -o-background-size: contain;
+}*/
 
 
 
