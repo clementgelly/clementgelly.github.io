@@ -42,15 +42,14 @@ body {
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.06);
 }
 
-.my-4 {
-    margin-top:50%;
-}
+
 
 .gallery-container h1 {
     text-align: center;
     margin-top: 70px;
     font-family: 'Droid Sans', sans-serif;
     font-weight: bold;
+    padding-top:60px;
 }
 
 .gallery-container p.page-description {
@@ -91,6 +90,8 @@ body {
 /*    background-color: #8064A2;*/
 	background-color: #343a40;
 	border:none;
+    margin-top:7%;
+    margin-bottom: -5%;
 }
 
 .btn-primary:hover{
