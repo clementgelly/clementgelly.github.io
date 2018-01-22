@@ -39,3 +39,10 @@ body {
 .btn-primary, .btn-primary:active, .btn-primary:visited {
     background-color: #343a40 !important;
 }
+
+#mainimage {
+  height: 100%;
+  width: 54%;
+ display: block;
+  margin: 0 auto;
+}
