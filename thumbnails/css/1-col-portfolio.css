@@ -90,7 +90,7 @@ body {
 /*    background-color: #8064A2;*/
 	background-color: #343a40;
 	border:none;
-    margin-top:7%;
+    margin-top:10%;
     margin-bottom: -5%;
 }
 
@@ -108,7 +108,13 @@ body {
     body {
         padding: 0;
     }
-
+    .btn-primary /*.btn-primary:hover, .btn-primary:active, .btn-primary:visited*/ {
+    /*    background-color: #8064A2;*/
+        background-color: #343a40;
+        border:none;
+        margin-top:20%;
+        margin-bottom: -5%;
+    }
     .container.gallery-container {
         border-radius: 0;
     }
