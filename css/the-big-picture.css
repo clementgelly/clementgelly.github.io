@@ -11,7 +11,9 @@ body {
   background-size: contain;
   -o-background-size: cover;*/
   font-family: 'AvenirLTStd35Light', 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif;
+  padding-top: 54px;
 }
+
 /*.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
 
     color: rgba(255,255,255,.5);
@@ -23,6 +25,7 @@ body {
   margin: 0 auto;
 }
 
-.container {
+/*.container {
   margin-top:10%;
-}
+}*/
+
