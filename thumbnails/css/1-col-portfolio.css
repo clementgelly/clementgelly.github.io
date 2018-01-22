@@ -42,6 +42,10 @@ body {
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.06);
 }
 
+.my-4 {
+    padding-top:10%;
+}
+
 .gallery-container h1 {
     text-align: center;
     margin-top: 70px;
