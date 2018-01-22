@@ -5,7 +5,7 @@
  */
 
 body {
-  background: url(Photos/background.JPG) no-repeat center center fixed;
+/*  background: url(Photos/background.JPG) no-repeat center center fixed;*/
   -webkit-background-size: contain;
   -moz-background-size: cover;
   background-size: contain;
@@ -18,7 +18,7 @@ body {
 }*/
 #mainimage {
   height: 100%;
-  width: 54%;
+  width: 100%;
  display: block;
   margin: 0 auto;
 }
