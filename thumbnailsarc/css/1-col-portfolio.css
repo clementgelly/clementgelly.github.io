@@ -42,6 +42,14 @@ body {
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.06);
 }
 
+.poem {
+  padding-left: 10%;
+}
+
+.textt {
+    padding-left: 20%;
+    padding-right: 20%;
+}
 
 
 .gallery-container h1 {
