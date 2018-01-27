@@ -40,6 +40,9 @@ body {
     background-color: #343a40 !important;
 }
 
+.poem {
+  padding-left: 10%;
+}
 /*#mainimage {
   height: 100%;
   width: 54%;
